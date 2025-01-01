@@ -2,7 +2,7 @@
 title: kusari.eu.org
 tags:
 ---
-<img align="right" width="200" height="200" src="./icon.png">
+<img height="150" src="banner.png">
 
 I'm Kusari also known online as Faji. I play the racing game Trackmania United Forever made by Nadeo and in that game I make maps and mostly play grass slide maps.
 
