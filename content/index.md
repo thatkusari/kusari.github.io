@@ -4,11 +4,11 @@ tags:
 ---
 <img src="./banner.jpg">
 
-I'm Kusari also known online as Faji. I play the racing game Trackmania United Forever made by Nadeo and in that game I make maps and mostly play grass slide maps.
+I'm Kusari also known online as Faji. I play the racing game [Trackmania United Forever](https://store.steampowered.com/app/7200/Trackmania_United_Forever/) made by [Nadeo](https://www.ubisoft.com/en-us/studio/nadeo) and in that game I make [[tracks]] and mostly play [[grass-slide|grass slide]] maps.
 
 My TMUF username is michaelwave360 so feel free to friend me.
 ## My Maps 🏝
-In TMUF I like to make maps. The type of map that I usually make is tech grass slide maps (aka slow grass slide). Below are my best maps
+In TMUF I like to make [[tracks]]. The type of tracks that I usually make is tech grass slide tracks (aka slow grass slide). Below are my best tracks
 * [Christmas Slide](https://tmnf.exchange/trackshow/12197647)
 * [Pi Slide VOL 3](https://tmnf.exchange/trackshow/12139563)
 * [Blue Lights](https://tmnf.exchange/trackshow/11189728)
