@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Kusari land 🏝",
-    pageTitleSuffix: "A garden of thoughts",
+    pageTitle: "Kusari land",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -46,8 +46,8 @@ const config: QuartzConfig = {
           gray: "#414559",
           darkgray: "#c6d0f5",
           dark: "#c6d0f5",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#babbf1",
+          tertiary: "#81c8be",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
